@@ -31,3 +31,36 @@ C:\Users\Administrator.pc-PC\Documents\ASP.Net Core\HelloWorld\HelloWorld\obj\De
 C:\Users\Administrator.pc-PC\Documents\ASP.Net Core\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
 C:\Users\Administrator.pc-PC\Documents\ASP.Net Core\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
 C:\Users\Administrator.pc-PC\Documents\ASP.Net Core\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.deps.json
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.json
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.dev.json
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.dll
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.pdb
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.Views.dll
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.Views.pdb
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.RazorAssemblyInfo.cache
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.RazorAssemblyInfo.cs
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfo.cs
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.TagHelpers.input.cache
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.TagHelpers.output.cache
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.RazorCoreGenerate.cache
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\Razor\Views\Home\Create.g.cshtml.cs
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\Razor\Views\Home\Detail.g.cshtml.cs
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\Razor\Views\Home\Edit.g.cshtml.cs
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\Razor\Views\Home\index.g.cshtml.cs
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\Razor\Views\Post\index.g.cshtml.cs
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\PostedData\Default.g.cshtml.cs
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Form.g.cshtml.cs
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.RazorTargetAssemblyInfo.cs
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.Views.pdb
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.dll
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.pdb
+C:\Users\Administrator.pc-PC\Documents\git\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csproj.CopyComplete

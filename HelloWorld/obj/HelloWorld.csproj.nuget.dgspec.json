@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator.pc-PC\\Documents\\ASP.Net Core\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\Administrator.pc-PC\\Documents\\git\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator.pc-PC\\Documents\\ASP.Net Core\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\Administrator.pc-PC\\Documents\\git\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator.pc-PC\\Documents\\ASP.Net Core\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator.pc-PC\\Documents\\git\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\Administrator.pc-PC\\Documents\\ASP.Net Core\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\Administrator.pc-PC\\Documents\\git\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Administrator.pc-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator.pc-PC\\Documents\\ASP.Net Core\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\Administrator.pc-PC\\Documents\\git\\HelloWorld\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
