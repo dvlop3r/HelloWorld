@@ -1,0 +1,17 @@
+﻿@model IEnumerable<HelloWorld.Models.Post>
+
+<table>
+    <tr>
+        <th>Post ID</th>
+        <th>Post content</th>
+        <th>Post date time</th>
+    </tr>
+    @foreach (var post in Model)
+    {
+        <tr>
+            <td>@post.id</td>
+            <td>@post.post</td>
+            <td>@post.postedDateTime</td>
+        </tr>
+    }
+</table>

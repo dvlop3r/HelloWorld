@@ -1,0 +1,28 @@
+﻿@model HelloWorld.Models.Employees
+
+@{
+    Layout = "_Layout";
+}
+
+<br />
+<h4>Detail of employee ID @Model.id</h4>
+<a class="action" href="@Url.Action("index")">Back to index</a>
+<br /><br />
+<table class="table-index">
+    <tr>
+        <th>Full name</th>
+        <th>Position</th>
+        <th>Department</th>
+        <th>Email</th>
+        <th>Grade</th>
+        <th>Gender</th>
+    </tr>
+    <tr>
+        <td>@Model.Name</td>
+        <td>@Model.Position</td>
+        <td>@Model.Department</td>
+        <td>@Model.Email</td>
+        <td>@Model.Grade</td>
+        <td>@Model.Gender</td>
+    </tr>
+</table>

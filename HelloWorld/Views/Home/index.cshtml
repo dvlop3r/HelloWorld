@@ -1,0 +1,47 @@
+﻿@model HelloWorld.Models.Employees[]
+
+<br />
+@if (ViewData["message"] != null)
+{
+    <p class="message">@ViewData["message"]</p>
+}
+@if (TempData["message"] != null)
+{
+    <p class="message">@TempData["message"]</p>
+}
+<h4>List of employees registered</h4>
+<a href="@Url.Action("create")" class="action">Create new</a><br /><br />
+<table class="table-index">
+    <tr>
+        <th>Employee ID</th>
+        <th>Full name</th>
+        <th>Position Title</th>
+        <th>Department</th>
+        <th>Email</th>
+        <th>Grade</th>
+        <th>Gender</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var employee in Model)
+    {
+        <tr>
+            <td>@employee.id</td>
+            <td>@employee.Name</td>
+            <td>@employee.Position</td>
+            <td>@employee.Department</td>
+            <td>@employee.Email</td>
+            <td>@employee.Grade</td>
+            <td>@employee.Gender</td>
+            <td>
+                <a href="@Url.Action("detail","home",new {id=employee.id })">Detail</a><a href="@Url.Action("edit","home",new { id=employee.id})">Edit</a><a onclick="return confirm('Are you sure?');" href="@Url.Action("delete","home",new {id=employee.id })">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+<div class="ajaxCall">
+    @for (int pageNumber = 0; pageNumber < ViewBag.pageCount; pageNumber++)
+    {
+        <a id="@pageNumber" href="@Url.Action("index","home")" onclick="return sendRequest(this);">@(pageNumber + 1)</a>
+    }
+</div>
+

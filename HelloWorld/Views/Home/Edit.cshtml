@@ -1,0 +1,16 @@
+﻿@model HelloWorld.Models.Employees
+
+@{
+    Layout = "_Layout";
+}
+
+<br />
+@if (ViewData["message"] != null)
+{
+    <p class="message">@ViewData["message"]</p>
+}
+<h4>Edit employee ID @Model.id</h4>
+<a href="@Url.Action("index")" class="action">Back to Index</a>
+<br />
+
+@await Html.PartialAsync("_Form")

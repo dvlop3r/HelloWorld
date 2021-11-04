@@ -1,0 +1,29 @@
+﻿@addTagHelper *,HelloWorld
+@using HelloWorld.Models
+@model ViewModel
+
+
+
+<h3>this is index action from Post controller</h3>
+@Html.ActionLink("Back to Home controller", "index", "Home")<br /><br />
+
+<h4>Data from View component controller</h4>
+<vc:posted-data />
+<br />
+
+<h4>Data from database</h4>
+<table>
+    <tr>
+        <th>Post ID</th>
+        <th>Post content</th>
+        <th>Post date time</th>
+    </tr>
+    @foreach (var post in Model.Posts)
+    {
+        <tr>
+            <td>@post.id</td>
+            <td>@post.post</td>
+            <td>@post.postedDateTime</td>
+        </tr>
+    }
+</table>
