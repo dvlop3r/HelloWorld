@@ -15,7 +15,6 @@ namespace HelloWorld.Models
 
         }
 
-
         public IEnumerable<Post> posts
         {
             get
