@@ -12,7 +12,7 @@ namespace HelloWorld.Models
 
         public EmployeeDB(DbContextOptions<EmployeeDB> options):base(options)
         {
-            Database.EnsureCreated();
+            //Database.EnsureCreated();
         }
     }
 }
