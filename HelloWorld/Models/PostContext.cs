@@ -12,7 +12,7 @@ namespace HelloWorld.Models
         public DbSet<Post> Posts { get; set; }
         public PostContext(DbContextOptions options):base(options)
         {
-
+            Database.EnsureCreated();
         }
 
         public IEnumerable<Post> posts
