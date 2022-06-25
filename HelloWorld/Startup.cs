@@ -31,7 +31,7 @@ namespace HelloWorld
 
             services.AddTransient<FeatureToggle>(x => new FeatureToggle
             {
-                DeveloperException = config.GetValue<bool>("sarwan:EnableDeveloperException")
+                DeveloperException = config.GetValue<bool>("Sarwan:EnableDeveloperException")
             });
 
             services.AddDbContext<EmployeeDB>(options =>
@@ -53,14 +53,13 @@ namespace HelloWorld
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env,FeatureToggle featureToggle)
         {
-            /*app.UseExceptionHandler("/error.html");
+            app.UseExceptionHandler("/error.html");
 
-            if (featureToggle.DeveloperException)   
+            if (featureToggle.DeveloperException)
             {
                 app.UseDeveloperExceptionPage();
-            }*/
+            }
 
-            app.UseDeveloperExceptionPage();
 
             //app.UseFileServer();
             app.UseStaticFiles();
