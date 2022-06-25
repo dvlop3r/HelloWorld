@@ -1,0 +1,188 @@
+﻿.body {
+    font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+}
+
+.header {
+    width: 100%;
+    height: 50px;
+    background-color: rgb(37, 113, 212);
+    color: #eae9e9;
+}
+.header img{
+    float:left;
+    margin-top:9px;
+}
+.header h2 {
+    font-size: 22px;
+    display: inline-block;
+    margin-top: 9px;
+    margin-left: 10px;
+}
+
+.content {
+    margin-left: 10px;
+}
+
+.footer {
+    height: 47px;
+    width: 100%;
+    background-color: #1f1e1e;
+    position: fixed;
+    bottom: 0px;
+    padding-left: 10px;
+    padding-top:12px;
+}
+
+.footer p {
+    font-size: 14px;
+    color: #868585;
+    float: left;
+    margin-right: 250px;
+}
+.footer p:nth-child(3){
+    margin-right:50px;
+    float:right;
+}
+.validation-summary-errors li{
+    color:red;
+    font-size:14px;
+}
+.field-validation-error{
+    color:red;
+    display:block;
+}
+.content > form {
+    width:75%;
+    text-align: left;
+    padding:20px;
+    margin-top:10px;
+    border:1px solid #efeded;
+}
+form button {
+    border: none;
+    padding: 4px 12px 6px 12px;
+    background-color: rgb(37, 113, 212);
+    color: #efeded;
+    border-radius: 3px;
+}
+form button:hover {
+    background-color: rgb(34, 105, 198);
+    color: #efeded;
+}
+form .table-create {
+    font-size:14px;
+}
+form .table-create input {
+    font-size: 14px;
+    width: 50%;
+    display:inline;
+}
+form .table-create input[type=checkbox]{
+    display:inline;
+    width:15px;
+    height:15px;
+}
+.table-create span {
+    font-size: 14px;
+    margin-left: 0px;
+    display: inline;
+    text-align: left;
+}
+form .table-create tr {
+
+}
+form .table-create th {
+    width:8%;
+    height:5px;
+}
+.table-index {
+    border-collapse:collapse;
+    width: 98%;
+    font-size:14px;
+}
+.table-index th, td {
+    padding: 6px;
+    text-align: left;
+    border-bottom: 1px solid #DDD;
+}
+.table-index td:last-child{
+    text-align:right;
+    padding-right:0;
+}
+    .table-index th:last-child{
+        text-align:center;
+    }
+    .table-index td:last-child a {
+        text-decoration: none;
+        padding: 6.5px 8px 6.5px 8px;
+        background-color: rgb(37, 113, 212);
+        color: #efeded;
+        margin-right: 0.8px;
+    }
+    .table-index td:last-child a:hover {
+        background-color: white;
+        color: black;
+    }
+.table-index th {
+    background-color: #ddd;
+}
+.table-index tr:hover {
+    background-color: #ddd;
+    transition: 0.1s;
+}
+.action {
+    text-decoration: none;
+    font-size: 16px;
+    background-color: rgb(37, 113, 212);
+    color: #efeded;
+    padding: 3px 9px 6px 9px;
+    border-radius: 3px;
+    display: inline-block;
+}
+    .action:hover {
+        background-color: rgb(35, 104, 193);
+        color: #efeded;
+    }
+    .message{
+        color:red;
+        font-size:16px;
+        font-weight:bold;
+        font-family:sans-serif;
+    }
+    .ajaxCall{
+        margin-top:2px;
+    }
+    .ajaxCall a{
+        text-decoration:none;
+        padding:2px 25px 3px 25px;
+        background-color:#ddd;
+        color:black;
+        border-radius:3px;
+    }
+    .ajaxCall a:hover{
+        color:#efeded;
+        background-color:rgb(37, 113, 212);
+    }
+    .authentication{
+        float:right;
+        margin-right:20px;
+        margin-top:10px;
+    }
+.authentication p{
+    display:inline;
+}
+.authentication form {
+    display: inline;
+}
+.authentication a{
+    text-decoration:none;
+    color:#434343;
+    padding:3px 10px 7px 10px;
+    background-color:#ddd;
+    border-radius:3px;
+}
+    .authentication a:hover {
+        background-color: #efeded;
+        color: #434343;
+    }
