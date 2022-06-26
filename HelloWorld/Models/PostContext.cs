@@ -9,13 +9,12 @@ namespace HelloWorld.Models
 {
     public class PostContext : DbContext
     {
-        public DbSet<Post> Posts { get; set; }
-        public PostContext(DbContextOptions options):base(options)
+        public PostContext(DbContextOptions<PostContext> options):base(options)
         {
-            Database.EnsureCreated();
+            //Database.EnsureCreated();
         }
 
-        public IEnumerable<Post> posts
+        public IEnumerable<Post> Posts
         {
             get
             {

@@ -17,7 +17,7 @@ namespace HelloWorld.ViewComponents
         }
         public IViewComponentResult Invoke()
         {
-            IEnumerable<Post> posts = postContext.posts.ToArray();
+            IEnumerable<Post> posts = postContext.Posts.ToArray();
             return View(posts);
         }
     }
