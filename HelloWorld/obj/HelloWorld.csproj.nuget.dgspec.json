@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Sarwan\\dotnet\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\Sarwan\\dotnet\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Sarwan\\dotnet\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\Sarwan\\dotnet\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Sarwan\\dotnet\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Sarwan\\dotnet\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "c:\\Users\\Sarwan\\dotnet\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\Sarwan\\dotnet\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Sarwan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Sarwan\\dotnet\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\Sarwan\\dotnet\\HelloWorld\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

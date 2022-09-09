@@ -1,0 +1,6 @@
+C:\Users\Sarwan\dotnet\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Sarwan\dotnet\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarwan\dotnet\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Sarwan\dotnet\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+C:\Users\Sarwan\dotnet\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Sarwan\dotnet\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.MvcApplicationPartsAssemblyInfo.cache
