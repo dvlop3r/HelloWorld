@@ -12,7 +12,6 @@ namespace HelloWorld.Controllers
     {
         private UserManager<IdentityUser> userManager;
         private SignInManager<IdentityUser> signInManager;
-        
         public AccountController(UserManager<IdentityUser> userManager,SignInManager<IdentityUser> signInManager)
         {
             this.userManager = userManager;
